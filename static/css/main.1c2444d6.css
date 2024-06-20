@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.App{font-family:Arial,sans-serif;margin:20px;text-align:center}.color-box{border:1px solid #000;height:200px;margin:20px auto;width:200px}.options{display:flex;flex-wrap:wrap;justify-content:center}.options button{font-size:16px;margin:10px;padding:10px}@media (max-width:600px){.color-box{height:100px;width:100px}.options button{font-size:14px;padding:8px}}
+/*# sourceMappingURL=main.1c2444d6.css.map*/

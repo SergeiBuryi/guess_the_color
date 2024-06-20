@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guess_the_color/static/css/main.1c2444d6.css",
+    "main.js": "/guess_the_color/static/js/main.79bc2cdd.js",
+    "index.html": "/guess_the_color/index.html",
+    "main.1c2444d6.css.map": "/guess_the_color/static/css/main.1c2444d6.css.map",
+    "main.79bc2cdd.js.map": "/guess_the_color/static/js/main.79bc2cdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c2444d6.css",
+    "static/js/main.79bc2cdd.js"
+  ]
+}
